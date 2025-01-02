@@ -1,7 +1,7 @@
 {
    "prefix": "$",
    "ownerIDS": [
-      "1070619070468214824"
+      "1307604583845072900"
    ],
    
    "bannermusic": "https://m.soundcloud.com/dualipa/levitating",
@@ -13,11 +13,11 @@
    "google_Engine_id": "",
 
    "botlogs": {
-      "feedbackChannel": "1198448086079512586",
-      "bugChannel": "1198448189582364705",
-      "suggestionChannel": "1195178427087589392",
-      "commandLogsChannel": "1198454118008754348",
-      "errorLogsChannel": "1198450693292441691"
+      "feedbackChannel": "1322154028414533746",
+      "bugChannel": "1322154028414533746",
+      "suggestionChannel": "1322154028414533746",
+      "commandLogsChannel": "1322154028414533746",
+      "errorLogsChannel": "1322154028414533746"
    },
   
    "status": {
